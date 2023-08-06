@@ -8,7 +8,7 @@
 > * With Python's powerful analytics and Streamlit's user-friendly interface, we can dive into Olympic data. 
 > * Whether you are an avid sports enthusiast or a curious explorer, Olympic Chronicles offers a unique perspective on the Games, revealing the hidden stories and fascinating statistics that make the Olympics a timeless celebration of human achievement. 
 
-### Glimpses
+### Glimpses 
 ![image](https://github.com/MUSKAN1903/Olympic_Chronicles/assets/70433658/6dda9c1a-44bc-44f6-857a-f7d20b2533c2)
 ![image](https://github.com/MUSKAN1903/Olympic_Chronicles/assets/70433658/9a626373-068f-4188-babc-46f4d4935072)
 ![image](https://github.com/MUSKAN1903/Olympic_Chronicles/assets/70433658/823c4072-d515-4250-9bc3-3f955b014587)
